@@ -1,4 +1,5 @@
 Flask==1.1.1
 pandas
 pylint
-wikipedia==1.4.0
+wikipedia
+google-cloud-language
