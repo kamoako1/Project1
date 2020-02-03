@@ -1,6 +1,6 @@
 # Individual Project #1: Continuous Delivery of Flask Application on GCP
 
-##The following project includes:
+           # The following project includes:
 
 -Creation of a Google App Engine application using GCP Cloud Shell environment
 
