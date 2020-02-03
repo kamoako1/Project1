@@ -28,4 +28,4 @@ The git repository includes the following files:
 
 Set up the cloud build continuous deploy with the cloudbuild.yaml file.
 
-Created and enabled a build trigger and ran successfully.
+Created and enabled a build trigger and pushed to branch successfully.
