@@ -2,13 +2,13 @@
 
            # The following project includes:
 
--Creation of a Google App Engine application using GCP Cloud Shell environment
+           -Creation of a Google App Engine application using GCP Cloud Shell environment
 
--Configuration of Cloud Build to deploy changes
+           -Configuration of Cloud Build to deploy changes
 
--Trigger establishment.
+           -Creation of a Trigger.
 
--Source code to Github
+           -Source code to Github
 
 Created a Git repository called 'Project1' and created a virtual environment in cloud shell.
   
