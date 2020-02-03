@@ -26,6 +26,16 @@ def html():
     <p>Hello</p>
     <p><b>World</b></p>
     """
+@app.route('/greeting')
+def greet():
+    """Returns some custom HTML"""
+    return """
+    <title>Welcome!</title>
+    <h1>Greetings!</h1>
+    <img src="https://media.giphy.com/media/aCIPabCsQkaBhHYvri/giphy.gif">
+    
+    """
+
 @app.route('/pandas')
 def pandas_sugar():
     df = pd.read_csv("https://raw.githubusercontent.com/noahgift/sugar/master/data/education_sugar_cdc_2003.csv")
