@@ -25,3 +25,7 @@ The git repository includes the following files:
           -App.yaml: Used to run the latest version of Python.
 
           -Cloud.yaml Used to configure cloudbuild and deploy changes.
+
+Set up the cloud build continuous deploy with the cloudbuild.yaml file.
+
+Created and enabled a build trigger and ran successfully.
